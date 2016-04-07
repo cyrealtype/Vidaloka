@@ -29,13 +29,13 @@ a (at) cyreal.org
 
 Source files:
 
-1. Vidaloka-Regular.vfb (Original Source files with contour 
-   overlaps and components)
-2. Vidaloka-Regular-OTF.vfb (Decomposed, merged 
-   and optimized file)
-3. Vidaloka-Regular-TTF.vbf (Mastered TTF file with manual hints)
+1. UFO file (src/Vidaloka-Regular-OTF.UFO)
+2. Glyphs source file (src/Vidaloka-Regular-OTF.glyphs)
 
 ChangeLog
+
+7 April 2016 (v. 1.012) Alexei Vanyashin
+— Added support for Polish, and Turkish languages
 
 16 November 2011 (v. 1.011) Alexei Vanyashin
 - Glyphs /S/, /s/, and /$/ balanced, eliminating backwards slope effect.
