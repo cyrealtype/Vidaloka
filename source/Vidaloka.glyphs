@@ -1,259 +1,260 @@
 {
+.appVersion = "3223";
 copyright = "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Vidaloka\".";
 customParameters = (
 {
-name = licenseURL;
-value = " http://scripts.sil.org/OFL";
+name = glyphOrder;
+value = (
+.null,
+nonmarkingreturn,
+space,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+x,
+y,
+z,
+O,
+H,
+I,
+J,
+K,
+C,
+comma,
+hyphen,
+period,
+exclam,
+quotedbl,
+a,
+d,
+A,
+B,
+D,
+E,
+F,
+G,
+L,
+M,
+N,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+one,
+zero,
+two,
+three,
+four,
+five,
+seven,
+six,
+eight,
+nine,
+quotesingle,
+parenleft,
+parenright,
+slash,
+plus,
+minus,
+asterisk,
+numbersign,
+dollar,
+percent,
+colon,
+semicolon,
+question,
+less,
+at,
+greater,
+equal,
+ampersand,
+asciicircum,
+bracketleft,
+bracketright,
+underscore,
+backslash,
+grave,
+w,
+ring,
+Eth,
+eth,
+acute,
+Thorn,
+thorn,
+multiply,
+caron,
+bar,
+braceleft,
+braceright,
+asciitilde,
+dieresis,
+cedilla,
+cedilla.case,
+tilde,
+circumflex,
+dagger,
+daggerdbl,
+germandbls,
+AE,
+Oslash,
+divide,
+guilsinglleft,
+guilsinglright,
+oslash,
+ae,
+florin,
+OE,
+quotesinglbase,
+quotedblbase,
+dotlessi,
+uni00AD,
+fi,
+fl,
+grave.case,
+acute.case,
+circumflex.case,
+dieresis.case,
+tilde.case,
+ring.case,
+caron.case,
+b,
+c,
+v,
+brokenbar,
+plusminus,
+macron,
+endash,
+emdash,
+logicalnot,
+section,
+copyright,
+registered,
+guillemotleft,
+guillemotright,
+questiondown,
+exclamdown,
+cent,
+Euro,
+yen,
+sterling,
+paragraph,
+currency,
+onesuperior,
+twosuperior,
+threesuperior,
+foursuperior,
+fraction,
+onequarter,
+onehalf,
+threequarters,
+quoteleft,
+quoteright,
+degree,
+ordfeminine,
+ordmasculine,
+mu,
+quotedblleft,
+quotedblright,
+periodcentered,
+bullet,
+foundryicon,
+noBreak,
+nbspace,
+e,
+oe,
+Agrave,
+Aacute,
+Acircumflex,
+Atilde,
+Adieresis,
+Aring,
+Ccedilla,
+Egrave,
+Eacute,
+Ecircumflex,
+Edieresis,
+Igrave,
+Iacute,
+Icircumflex,
+Idieresis,
+Ntilde,
+Ograve,
+Oacute,
+Ocircumflex,
+Otilde,
+Odieresis,
+Ugrave,
+Uacute,
+Ucircumflex,
+Udieresis,
+Yacute,
+agrave,
+aacute,
+acircumflex,
+atilde,
+adieresis,
+aring,
+ccedilla,
+egrave,
+eacute,
+ecircumflex,
+edieresis,
+igrave,
+iacute,
+icircumflex,
+idieresis,
+ntilde,
+ograve,
+oacute,
+ocircumflex,
+otilde,
+odieresis,
+ugrave,
+uacute,
+ucircumflex,
+udieresis,
+yacute,
+ydieresis
+);
 },
 {
 name = description;
 value = "Designed by Alexei Vanyashin and Olga Karpushina.\012This Font Software is licensed under the SIL Open Font License, Version 1.1. ";
 },
 {
-name = trademark;
-value = "Vidaloka is a trademark of Cyreal (www.cyreal.org).";
-},
-{
 name = license;
 value = "Copyright (c) 2011, Cyreal (www.cyreal.org)\012with Reserved Font Name \"Vidaloka\".\012\012This Font Software is licensed under the SIL Open Font License,\012Version 1.1. This license is available with a FAQ at:\012http://scripts.sil.org/OFL";
 },
 {
-name = glyphOrder;
-value = (
-    ".null",
-    nonmarkingreturn,
-    space,
-    f,
-    g,
-    h,
-    i,
-    j,
-    k,
-    l,
-    m,
-    n,
-    o,
-    p,
-    q,
-    r,
-    s,
-    t,
-    u,
-    x,
-    y,
-    z,
-    O,
-    H,
-    I,
-    J,
-    K,
-    C,
-    comma,
-    hyphen,
-    period,
-    exclam,
-    quotedbl,
-    a,
-    d,
-    A,
-    B,
-    D,
-    E,
-    F,
-    G,
-    L,
-    M,
-    N,
-    P,
-    Q,
-    R,
-    S,
-    T,
-    U,
-    V,
-    W,
-    X,
-    Y,
-    Z,
-    one,
-    zero,
-    two,
-    three,
-    four,
-    five,
-    seven,
-    six,
-    eight,
-    nine,
-    quotesingle,
-    parenleft,
-    parenright,
-    slash,
-    plus,
-    minus,
-    asterisk,
-    numbersign,
-    dollar,
-    percent,
-    colon,
-    semicolon,
-    question,
-    less,
-    at,
-    greater,
-    equal,
-    ampersand,
-    asciicircum,
-    bracketleft,
-    bracketright,
-    underscore,
-    backslash,
-    grave,
-    w,
-    ring,
-    Eth,
-    eth,
-    acute,
-    Thorn,
-    thorn,
-    multiply,
-    caron,
-    bar,
-    braceleft,
-    braceright,
-    asciitilde,
-    dieresis,
-    cedilla,
-    "cedilla.case",
-    tilde,
-    circumflex,
-    dagger,
-    daggerdbl,
-    germandbls,
-    AE,
-    Oslash,
-    divide,
-    guilsinglleft,
-    guilsinglright,
-    oslash,
-    ae,
-    florin,
-    OE,
-    quotesinglbase,
-    quotedblbase,
-    dotlessi,
-    uni00AD,
-    fi,
-    fl,
-    "grave.case",
-    "acute.case",
-    "circumflex.case",
-    "dieresis.case",
-    "tilde.case",
-    "ring.case",
-    "caron.case",
-    b,
-    c,
-    v,
-    brokenbar,
-    plusminus,
-    macron,
-    endash,
-    emdash,
-    logicalnot,
-    section,
-    copyright,
-    registered,
-    guillemotleft,
-    guillemotright,
-    questiondown,
-    exclamdown,
-    cent,
-    Euro,
-    yen,
-    sterling,
-    paragraph,
-    currency,
-    onesuperior,
-    twosuperior,
-    threesuperior,
-    foursuperior,
-    fraction,
-    onequarter,
-    onehalf,
-    threequarters,
-    quoteleft,
-    quoteright,
-    degree,
-    ordfeminine,
-    ordmasculine,
-    mu,
-    quotedblleft,
-    quotedblright,
-    periodcentered,
-    bullet,
-    foundryicon,
-    noBreak,
-    nbspace,
-    e,
-    oe,
-    Agrave,
-    Aacute,
-    Acircumflex,
-    Atilde,
-    Adieresis,
-    Aring,
-    Ccedilla,
-    Egrave,
-    Eacute,
-    Ecircumflex,
-    Edieresis,
-    Igrave,
-    Iacute,
-    Icircumflex,
-    Idieresis,
-    Ntilde,
-    Ograve,
-    Oacute,
-    Ocircumflex,
-    Otilde,
-    Odieresis,
-    Ugrave,
-    Uacute,
-    Ucircumflex,
-    Udieresis,
-    Yacute,
-    agrave,
-    aacute,
-    acircumflex,
-    atilde,
-    adieresis,
-    aring,
-    ccedilla,
-    egrave,
-    eacute,
-    ecircumflex,
-    edieresis,
-    igrave,
-    iacute,
-    icircumflex,
-    idieresis,
-    ntilde,
-    ograve,
-    oacute,
-    ocircumflex,
-    otilde,
-    odieresis,
-    ugrave,
-    uacute,
-    ucircumflex,
-    udieresis,
-    yacute,
-    ydieresis
-);
+name = licenseURL;
+value = "https://openfontlicense.org/";
+},
+{
+name = trademark;
+value = "Vidaloka is a trademark of Cyreal (www.cyreal.org).";
 }
 );
-date = "2016-04-07 17:53:50 +0000";
+date = "2023-12-09 09:38:55 +0000";
 designer = "Cyreal (www.cyreal.org)";
 designerURL = "http://cyreal.org";
 familyName = "Vidaloka ";
@@ -14333,14 +14334,16 @@ unicode = 00FF;
 },
 {
 glyphname = Aogonek;
-lastChange = "2016-04-07 19:13:30 +0000";
+lastChange = "2023-12-09 09:37:07 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = ogonek;
 transform = "{1, 0, 0, 1, 361, 0}";
 }
@@ -14401,14 +14404,16 @@ unicode = 0106;
 },
 {
 glyphname = Eogonek;
-lastChange = "2016-04-07 19:13:48 +0000";
+lastChange = "2023-12-09 09:37:07 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = ogonek;
 transform = "{1, 0, 0, 1, 259, 0}";
 }
@@ -14627,14 +14632,16 @@ unicode = 017B;
 },
 {
 glyphname = aogonek;
-lastChange = "2016-04-07 19:14:35 +0000";
+lastChange = "2023-12-09 09:37:07 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = ogonek;
 transform = "{1, 0, 0, 1, 217, 0}";
 }
@@ -14651,14 +14658,16 @@ unicode = 0105;
 },
 {
 glyphname = cacute;
-lastChange = "2016-04-07 19:14:43 +0000";
+lastChange = "2023-12-09 09:37:07 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = c;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 156, 0}";
 }
@@ -14675,14 +14684,16 @@ unicode = 0107;
 },
 {
 glyphname = eogonek;
-lastChange = "2016-04-07 19:14:56 +0000";
+lastChange = "2023-12-09 09:37:07 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = ogonek;
 transform = "{1, 0, 0, 1, 88, 0}";
 }
@@ -14797,21 +14808,23 @@ unicode = 015B;
 },
 {
 glyphname = scedilla;
-lastChange = "2016-04-07 19:25:30 +0000";
+lastChange = "2023-12-09 09:39:17 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = s;
 },
 {
+alignment = -1;
 name = cedilla;
 transform = "{1, 0, 0, 1, 102, 0}";
 }
 );
 layerId = UUID0;
 name = Regular;
-width = 445;
+width = 439;
 }
 );
 rightMetricsKey = S;
@@ -15019,11 +15032,14 @@ width = 340;
 );
 instances = (
 {
+instanceInterpolations = {
+UUID0 = 1;
+};
 name = Regular;
 }
 );
 kerning = {
-"UUID0" = {
+UUID0 = {
 "@MMK_L_A" = {
 "@MMK_R_C" = -22.4609;
 "@MMK_R_O" = -25.3906;
@@ -16727,7 +16743,7 @@ p = -19.5312;
 s = -32.2266;
 seven = 21.4844;
 six = -10.7422;
-slash = -207.031;
+slash = -207.03101;
 z = -24.9023;
 zero = -11.2305;
 };
@@ -16900,5 +16916,5 @@ manufacturer = "Cyreal (www.cyreal.org)";
 manufacturerURL = "http://cyreal.org";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 12;
+versionMinor = 13;
 }
